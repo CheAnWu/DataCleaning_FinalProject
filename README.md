@@ -15,3 +15,4 @@ Link: https://www.kaggle.com/zynicide/wine-reviews?fbclid=IwAR0eHqpu86CMs4du-KG-
 
 The data was scraped from WineEnthusiast on November 22nd, 2017 by Zackthoutt on Kaggle. In this dataset, there are 13 columns and nearly 130 thousand rows, so there are lots of text data like question mark and unidentified words needed to be cleaned and preprocessed.
 
+![Image of Workflow]
