@@ -8,6 +8,8 @@ The project is about analyzing the wine dataset that includes wine scores from d
 The goal of this project is to allow anyone who wants to buy red wine can refer to this analysis result, so that they can more effectively buy the ideal wine.
 
 # Dataset
-- winemag-data-130k-v2.csv
+
+winemag-data-130k-v2.csv
+
 The data was scraped from WineEnthusiast on November 22nd, 2017 by Zackthoutt on Kaggle. In this dataset, there are 13 columns and nearly 130 thousand rows, so there are lots of text data like question mark and unidentified words needed to be cleaned and preprocessed.
 
