@@ -11,5 +11,7 @@ The goal of this project is to allow anyone who wants to buy red wine can refer 
 
 winemag-data-130k-v2.csv
 
+Link: https://www.kaggle.com/zynicide/wine-reviews?fbclid=IwAR0eHqpu86CMs4du-KG-pSmakdeb9OKhnvZne-5pbvLxfGHl54uvAr3okN0
+
 The data was scraped from WineEnthusiast on November 22nd, 2017 by Zackthoutt on Kaggle. In this dataset, there are 13 columns and nearly 130 thousand rows, so there are lots of text data like question mark and unidentified words needed to be cleaned and preprocessed.
 
